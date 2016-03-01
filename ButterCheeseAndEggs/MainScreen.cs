@@ -139,6 +139,8 @@ namespace ButterCheeseAndEggs
 
             // check diagonal 3 in a row
 
+            // diagonal checking is a little to much for such a project, so to bad it isn't implemented
+            // feel free to make it yourself :)
 
         }
 
